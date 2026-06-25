@@ -1,4 +1,4 @@
-# GitHub Collaboration Workshop Repository
+# jvvvvv Collaboration Workshop Repository
 
 This repository is used in a workshop focused on learning collaboration practices with Git and GitHub using a document-based workflow.
 
@@ -20,3 +20,4 @@ Participants in the workshop will:
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
+the team  : joud - rakan
