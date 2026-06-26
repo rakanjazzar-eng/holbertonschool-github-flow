@@ -22,3 +22,4 @@ Participants in the workshop will:
 - Tag and release specific versions of the documentation.
 the team  : joud - rakan
  
+  
