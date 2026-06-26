@@ -20,4 +20,4 @@ Participants in the workshop will:
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
-the team  : joud - rakan
+the team  : Joud - rakan
