@@ -21,3 +21,4 @@ Participants in the workshop will:
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
 the team  : joud - rakan
+ 
